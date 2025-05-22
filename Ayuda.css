@@ -1,0 +1,26 @@
+h1 {
+    color: black;
+    text-align: center;
+}
+h2 {
+    color: #444;
+    margin-top: 1.5rem;
+    text-align: center;
+}
+p {
+    margin-bottom: 1rem;
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+    font-size: large;
+    font-family: "Roboto", sans-serif;
+}
+.faq {
+    margin-bottom: 2rem;
+}
+.logo {
+  display: block;
+  width: 1cm;
+  height: 1cm;
+  margin-right: 1%;
+}

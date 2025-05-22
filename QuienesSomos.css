@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size: x-large;
+    margin-right: 20%;
+    margin-left: 20%;
+    color: #444;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: auto;
+    font-style: normal;
+}
+.logo {
+  display: block;
+  width: 1cm;
+  height: 1cm;
+  margin-right: 1%;
+}

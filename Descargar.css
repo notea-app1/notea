@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size: x-large;
+    margin-right: 20%;
+    margin-left: 20%;
+    color: #444;
+    font-family: "Roboto", sans-serif;
+}
+.logo-android {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    height: auto;
+}
+.logo-apple {
+    display: block;
+    margin: 0 auto;
+    width: 95px;
+    height: auto;
+}
+section{
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background: white;
+    border-radius: 25px;
+    box-shadow: 0 0 0px;
+    text-align: center;
+}
+.logo {
+  display: block;
+  width: 1cm;
+  height: 1cm;
+  margin-right: 1%;
+}
+  

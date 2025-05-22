@@ -1,0 +1,35 @@
+html {
+    background-color: #E8FCCF;
+}
+body {
+    background-color: #E8FCCF;
+}
+h1 {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.logo {
+  display: block;
+  width: 1cm;
+  height: 1cm;
+  margin-right: 1%;
+}
+.login-container {
+    text-align: center;
+}
+
+input {
+    margin: 10px 0;
+    padding: 10px;
+    width: 200px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+}
